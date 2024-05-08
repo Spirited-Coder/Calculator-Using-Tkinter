@@ -18,15 +18,17 @@ To get started, clone the repository to your local environment:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
 
 ## Usage
 To run the password generator app, execute the following command:
 ```bash
 python password_generator.py
+```
 
 This will open the Tkinter GUI. To generate a password:
 
-1.Select the desired password length using the radio buttons.
-2.Click the "Generate" button.
-3.The generated password will be displayed on the screen.
+1.Select the desired password length using the radio buttons.</br>
+2.Click the "Generate" button.</br>
+3.The generated password will be displayed on the screen.</br>
